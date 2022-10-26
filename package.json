@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Carefall",
   "description": "A project that does something awesome",
+  "keywords": [
+    "learning",
+    "api",
+    "test"
+  ],
   "dependencies": {
     "express": "^4.18.2"
   },
